@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Lol {
+public class Lol {
+// ajdhawhijd
 }
